@@ -129,33 +129,7 @@ cache = {};
 cacheAA = {};
 
 local animation = {
-    "                  ",
-    "                 s",
-    "                se",
-    "               ses",
-    "              sess",
-    "             sessu",
-    "            sessuh",
-    "           sessuho",
-    "          sessuhoo",
-    "         sessuhook",
-    "        sessuhook ",
-    "       sessuhook  ",
-    "      sessuhook   ",
-    "     sessuhook    ",
-    "    sessuhook     ",
-    "   sessuhook      ",
-    "  sessuhook       ",
-    " sessuhook        ",
-    "sessuhook         ",
-    "essuhook          ",
-    "ssuhook           ",
-    "suhook            ",
-    "uhook             ",
-    "hook              ",
-    "ook               ",
-    "ok                ",
-    "k                 "
+    "ZuoCi'script",
 }
 
 local phrases = {
