@@ -129,16 +129,16 @@ cache = {};
 cacheAA = {};
 
 local animation = {
-    "ZuoCi'script",
+    "XAXAXA",
 }
 
 local phrases = {
-    "1'd by Sessuhook",
-    "Sessuhook on top",
-    "Get good get Sessuhook",
+    "1'd by ZuoCi",
+    "ZuoCI on top",
+    "Get good get ZuoCI",
     "Tapping NNs since 2018",
-    "Get owned by Sessuhook",
-    "Haist vittu - Sessuhook"
+    "Get owned by ZuoCI",
+    "Haist vittu - ZuoCI"
 }
 
 --Menu Related/Gui
@@ -493,7 +493,7 @@ local AutoUnmute = function(event)
 	end
 end
 
---Sessuhook clantag
+--ZuoCi clantag
 local Clantag = function()
 	if gui.GetValue("rbot.master") and enabled:GetValue() and clantag:GetValue() then
 		local curtime = math.floor(globals.CurTime() * 2.3);
@@ -655,7 +655,7 @@ local IdealTick = function()
 	end
 end
 
---Sessuhook Killsay.
+--ZuoCi Killsay.
 local Killsay = function(event)
 	if gui.GetValue("rbot.master") and enabled:GetValue() and killsay:GetValue() then
 		if event:GetName() and event:GetName() == "player_death" then
